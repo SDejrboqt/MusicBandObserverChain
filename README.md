@@ -32,3 +32,4 @@ This project implements **Observer** and **Chain of Responsibility** design patt
 - Presentation slides
 - Contribution log
 - GitHub project board link
+- ![UML Diagram](reports/UML_Diagram.png)
